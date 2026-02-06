@@ -1,4 +1,5 @@
-import { Produto as ProdutoType } from '../../App'
+import { Produto as ProdutoType } from '../../models/Produtos'
+
 import * as S from './styles'
 
 type Props = {
